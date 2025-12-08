@@ -1,5 +1,5 @@
 praw
-pandas
+pandas 
 notebook
 scikit-learn
 transformers
@@ -7,3 +7,8 @@ datasets
 Torch
 pip install 'accelerate>=0.26.0'
 praw
+os
+datetime
+timezone
+time
+Ipython.display
