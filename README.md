@@ -25,8 +25,7 @@ The goal is to explore **what BERT pays attention to in depressive vs. non-depre
 │   ├── Finetune.ipynb    # Code for fine-tuning BERT
 │   ├── Analysis.ipynb    # Code for attention probing
 │   └── runs/             # Folder for fine-tuned models (not pushed due to size)
-│ 
-├── github_setup.sh       # GitHub authentication helper (not tracked)
+│   
 ├── requirements.txt      # Packages needed for running notebooks
 └── README.md             # Info about the repo
 
