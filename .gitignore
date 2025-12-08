@@ -1,0 +1,29 @@
+# --- Python cache / compiled files ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- Jupyter notebook junk ---
+.ipynb_checkpoints/
+
+# --- folder ---
+models/
+runs/
+data/
+clean_reddit.csv
+depression_expanded_keywords.csv
+depression_baseline_1000.csv
+casualconversation_baseline_1000.csv
+casualconversation_expanded_keywords.csv
+
+# --- OS / editor junk ---
+.DS_Store
+*.swp
+*.swo
+

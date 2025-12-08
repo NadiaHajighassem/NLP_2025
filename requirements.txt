@@ -1,0 +1,9 @@
+praw
+pandas
+notebook
+scikit-learn
+transformers
+datasets
+Torch
+pip install 'accelerate>=0.26.0'
+praw
