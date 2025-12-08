@@ -12,3 +12,7 @@ datetime
 timezone
 time
 Ipython.display
+numpy
+scipy.stats 
+re
+Collections
