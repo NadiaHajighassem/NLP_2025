@@ -14,12 +14,22 @@ __pycache__/
 models/
 runs/
 data/
+extra/
+tmp_eval/
+nbs/report_outputs/
+nbs/results/
+nbs/probe_attention_results_last4.csv
+nbs/reddit_probe_triplets_20.csv
+nbs/reddit_probe_triplets_20.jsonl
 clean_reddit.csv
 depression_expanded_keywords.csv
 depression_baseline_1000.csv
 casualconversation_baseline_1000.csv
 casualconversation_expanded_keywords.csv
 github_setup.sh
+Analysis_also_old.ipynb
+Analysis_old.ipynb
+Analysis2.ipynb
 
 # --- OS / editor junk ---
 .DS_Store

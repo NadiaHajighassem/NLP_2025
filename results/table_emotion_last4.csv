@@ -1,0 +1,4 @@
+Outcome,Layers,Contrast,Test,Variant,Effect (mean [95% CI]),Permutation p
+Emotion token,last4,neg-pos,DID,I,"0.01207 [0.00612, 0.01754]",0.000825
+Emotion token,last4,neg-pos,DID,they,"0.01153 [0.00543, 0.01690]",0.00196
+Emotion token,last4,neg-pos,DDD (I - they),I_vs_they,"0.00053 [-0.00136, 0.00232]",0.58608

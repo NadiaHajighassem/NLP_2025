@@ -29,6 +29,9 @@ The goal is to explore **what BERT pays attention to in depressive vs. non-depre
 ├── requirements.txt      # Packages needed for running notebooks
 └── README.md             # Info about the repo
 
+```
+---
+
 ## 🛠️ Setup (UCloud)
 
 Before running any code, create a virtual environment and install the required packages.
@@ -45,6 +48,8 @@ source .venv/bin/activate
 # 3. Install dependencies
 pip install -r requirements.txt
 
+---
+
 ### ▶ Running the notebooks
 
 The main results of this project are shown in the following notebooks:
@@ -54,8 +59,7 @@ The main results of this project are shown in the following notebooks:
 3. `nbs/Analysis.ipynb` – Attention analysis and results
 
 ⚠️ **Note:**  
-- The scraping and fine-tuning steps are very time-consuming and not required to inspect the results.
-- The notebooks are primarily intended for **code inspection and methodological transparency**.
+- The scraping and fine-tuning steps are very time-consuming, so keep in mind, that some chunks take multiple hours to run (speficially fine-tuning)
 
 # 4. Deactivate the environment when you're done
 deactivate
