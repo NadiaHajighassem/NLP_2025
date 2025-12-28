@@ -10,7 +10,7 @@ In this project, I collect data from two subreddits:
   
 The goal of this project is to assess whether linguistic markers of depression can also be identified by a transformer model trained to classify Reddit text as either depressive or non-depressive.
 
-**Due to ethical concerns, the datasets used in this project have NOT been uploaded to GitHub. For examination the dataset has been uploaded to WiseFlow as a csv-file (dataset.csv). Usernames and time-stamps have been removed to mitigate risk of identification of any users**
+**Due to ethical concerns, the datasets used in this project have NOT been uploaded to GitHub. For examination the dataset has been uploaded to WiseFlow as a csv-file (dataset.csv). Only post-id, text and label is included (1 = depressive text, 0 = non-depressive text). Usernames and time-stamps have been removed to mitigate risk of identification of any users**
 
 ---
 
