@@ -39,6 +39,8 @@ The goal of this project is to assess whether linguistic markers of depression c
 
 ## 🛠️ Setup (UCloud)
 
+Most of the code was executed locally on a MacBook 14" (2024, 16GB), while model fine-tuning was performed on UCloud using Coder Python 1.105.0 with GPUs."
+
 Before running any code, create a virtual environment and install the required packages.
 
 From the project root:
@@ -50,7 +52,7 @@ python -m venv .venv
 # 2. Activate it 
 source .venv/bin/activate
 
-# 3. Install dependencies
+# 3. Install the requires packages
 pip install -r requirements.txt
 
 ---
@@ -63,8 +65,20 @@ The main results of this project are shown in the following notebooks:
 2. `nbs/Finetune.ipynb` – Fine-tuning BERT 
 3. `nbs/Analysis.ipynb` – Attention analysis and results
 
+To run any script in the Scraping or nbs folders, follow these steps with the virtual environment activated:
+
+# For data scraping:
+jupyter notebook Scraping/Scraping.ipynb
+
+# For fine-tuning BERT:
+jupyter notebook nbs/Finetune.ipynb
+
+# For attention analysis:
+jupyter notebook nbs/Analysis.ipynb
+
+
 ⚠️ **Note:**  
 - The scraping and fine-tuning steps are very time-consuming, so keep in mind, that some chunks take multiple hours to run.
 
-# 4. Deactivate the environment when you're done
+# Deactivate the environment when you're done
 deactivate
