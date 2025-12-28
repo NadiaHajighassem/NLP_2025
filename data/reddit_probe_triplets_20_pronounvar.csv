@@ -1,0 +1,121 @@
+sentence_id,set_id,valence,emotion_word,pronoun_word,sentence,pronoun_variant
+1,1,pos,happy,I,"When I think about the future, I feel happy.",I
+2,1,neu,normal,I,"When I think about the future, I feel normal.",I
+3,1,neg,awful,I,"When I think about the future, I feel awful.",I
+4,2,pos,energized,I,"Right now, I feel energized.",I
+5,2,neu,regular,I,"Right now, I feel regular.",I
+6,2,neg,burned out,I,"Right now, I feel burned out.",I
+7,3,pos,calm,I,Calm is what I feel after I finally sit down.,I
+8,3,neu,typical,I,Typical is what I feel after I finally sit down.,I
+9,3,neg,horrible,I,Horrible is what I feel after I finally sit down.,I
+10,4,pos,connected,I,Connected is what I feel after talking to people online.,I
+11,4,neu,normal,I,Normal is what I feel after talking to people online.,I
+12,4,neg,isolated,I,Isolated is what I feel after talking to people online.,I
+13,5,pos,proud,I,I feel proud when I actually finish something.,I
+14,5,neu,ordinary,I,I feel ordinary when I actually finish something.,I
+15,5,neg,embarrassed,I,I feel embarrassed when I actually finish something.,I
+16,6,pos,safe,I,"Most days, I feel safe at home.",I
+17,6,neu,routine,I,"Most days, I feel routine at home.",I
+18,6,neg,uneasy,I,"Most days, I feel uneasy at home.",I
+19,7,pos,motivated,I,Motivated is what I feel when I start a task.,I
+20,7,neu,typical,I,Typical is what I feel when I start a task.,I
+21,7,neg,daunted,I,Daunted is what I feel when I start a task.,I
+22,8,pos,interested,I,I feel interested when something new pops up.,I
+23,8,neu,standard,I,I feel standard when something new pops up.,I
+24,8,neg,detached,I,I feel detached when something new pops up.,I
+25,9,pos,rested,I,"After I wake up, I feel rested.",I
+26,9,neu,normal,I,"After I wake up, I feel normal.",I
+27,9,neg,drained,I,"After I wake up, I feel drained.",I
+28,10,pos,confident,I,Confident is what I feel about my plans.,I
+29,10,neu,usual,I,Usual is what I feel about my plans.,I
+30,10,neg,lost,I,Lost is what I feel about my plans.,I
+31,11,pos,relieved,I,I feel relieved after I get some space.,I
+32,11,neu,normal,I,I feel normal after I get some space.,I
+33,11,neg,stressed,I,I feel stressed after I get some space.,I
+34,12,pos,grateful,I,Grateful is what I feel when someone checks in.,I
+35,12,neu,regular,I,Regular is what I feel when someone checks in.,I
+36,12,neg,hollow,I,Hollow is what I feel when someone checks in.,I
+37,13,pos,excited,I,"Right now, I feel excited about what’s coming.",I
+38,13,neu,typical,I,"Right now, I feel typical about what’s coming.",I
+39,13,neg,worried,I,"Right now, I feel worried about what’s coming.",I
+40,14,pos,content,I,I feel content when the day finally slows down.,I
+41,14,neu,ordinary,I,I feel ordinary when the day finally slows down.,I
+42,14,neg,trapped,I,I feel trapped when the day finally slows down.,I
+43,15,pos,optimistic,I,Optimistic is what I feel after thinking it through.,I
+44,15,neu,usual,I,Usual is what I feel after thinking it through.,I
+45,15,neg,discouraged,I,Discouraged is what I feel after thinking it through.,I
+46,16,pos,supported,I,Supported is what I feel after talking it out.,I
+47,16,neu,standard,I,Standard is what I feel after talking it out.,I
+48,16,neg,ignored,I,Ignored is what I feel after talking it out.,I
+49,17,pos,refreshed,I,I feel refreshed after I take a short break.,I
+50,17,neu,normal,I,I feel normal after I take a short break.,I
+51,17,neg,miserable,I,I feel miserable after I take a short break.,I
+52,18,pos,inspired,I,I feel inspired when I see someone do well.,I
+53,18,neu,regular,I,I feel regular when I see someone do well.,I
+54,18,neg,frustrated,I,I feel frustrated when I see someone do well.,I
+55,19,pos,cheerful,I,"Most days, I feel cheerful in the morning.",I
+56,19,neu,typical,I,"Most days, I feel typical in the morning.",I
+57,19,neg,defeated,I,"Most days, I feel defeated in the morning.",I
+58,20,pos,peaceful,I,Peaceful is what I feel when everything goes quiet.,I
+59,20,neu,usual,I,Usual is what I feel when everything goes quiet.,I
+60,20,neg,restless,I,Restless is what I feel when everything goes quiet.,I
+61,1,pos,happy,they,"When they think about the future, they feel happy.",they
+62,1,neu,normal,they,"When they think about the future, they feel normal.",they
+63,1,neg,awful,they,"When they think about the future, they feel awful.",they
+64,2,pos,energized,they,"Right now, they feel energized.",they
+65,2,neu,regular,they,"Right now, they feel regular.",they
+66,2,neg,burned out,they,"Right now, they feel burned out.",they
+67,3,pos,calm,they,Calm is what they feel after they finally sit down.,they
+68,3,neu,typical,they,Typical is what they feel after they finally sit down.,they
+69,3,neg,horrible,they,Horrible is what they feel after they finally sit down.,they
+70,4,pos,connected,they,Connected is what they feel after talking to people online.,they
+71,4,neu,normal,they,Normal is what they feel after talking to people online.,they
+72,4,neg,isolated,they,Isolated is what they feel after talking to people online.,they
+73,5,pos,proud,they,They feel proud when they actually finish something.,they
+74,5,neu,ordinary,they,They feel ordinary when they actually finish something.,they
+75,5,neg,embarrassed,they,They feel embarrassed when they actually finish something.,they
+76,6,pos,safe,they,"Most days, they feel safe at home.",they
+77,6,neu,routine,they,"Most days, they feel routine at home.",they
+78,6,neg,uneasy,they,"Most days, they feel uneasy at home.",they
+79,7,pos,motivated,they,Motivated is what they feel when they start a task.,they
+80,7,neu,typical,they,Typical is what they feel when they start a task.,they
+81,7,neg,daunted,they,Daunted is what they feel when they start a task.,they
+82,8,pos,interested,they,They feel interested when something new pops up.,they
+83,8,neu,standard,they,They feel standard when something new pops up.,they
+84,8,neg,detached,they,They feel detached when something new pops up.,they
+85,9,pos,rested,they,"After they wake up, they feel rested.",they
+86,9,neu,normal,they,"After they wake up, they feel normal.",they
+87,9,neg,drained,they,"After they wake up, they feel drained.",they
+88,10,pos,confident,they,Confident is what they feel about my plans.,they
+89,10,neu,usual,they,Usual is what they feel about my plans.,they
+90,10,neg,lost,they,Lost is what they feel about my plans.,they
+91,11,pos,relieved,they,They feel relieved after they get some space.,they
+92,11,neu,normal,they,They feel normal after they get some space.,they
+93,11,neg,stressed,they,They feel stressed after they get some space.,they
+94,12,pos,grateful,they,Grateful is what they feel when someone checks in.,they
+95,12,neu,regular,they,Regular is what they feel when someone checks in.,they
+96,12,neg,hollow,they,Hollow is what they feel when someone checks in.,they
+97,13,pos,excited,they,"Right now, they feel excited about what’s coming.",they
+98,13,neu,typical,they,"Right now, they feel typical about what’s coming.",they
+99,13,neg,worried,they,"Right now, they feel worried about what’s coming.",they
+100,14,pos,content,they,They feel content when the day finally slows down.,they
+101,14,neu,ordinary,they,They feel ordinary when the day finally slows down.,they
+102,14,neg,trapped,they,They feel trapped when the day finally slows down.,they
+103,15,pos,optimistic,they,Optimistic is what they feel after thinking it through.,they
+104,15,neu,usual,they,Usual is what they feel after thinking it through.,they
+105,15,neg,discouraged,they,Discouraged is what they feel after thinking it through.,they
+106,16,pos,supported,they,Supported is what they feel after talking it out.,they
+107,16,neu,standard,they,Standard is what they feel after talking it out.,they
+108,16,neg,ignored,they,Ignored is what they feel after talking it out.,they
+109,17,pos,refreshed,they,They feel refreshed after they take a short break.,they
+110,17,neu,normal,they,They feel normal after they take a short break.,they
+111,17,neg,miserable,they,They feel miserable after they take a short break.,they
+112,18,pos,inspired,they,They feel inspired when they see someone do well.,they
+113,18,neu,regular,they,They feel regular when they see someone do well.,they
+114,18,neg,frustrated,they,They feel frustrated when they see someone do well.,they
+115,19,pos,cheerful,they,"Most days, they feel cheerful in the morning.",they
+116,19,neu,typical,they,"Most days, they feel typical in the morning.",they
+117,19,neg,defeated,they,"Most days, they feel defeated in the morning.",they
+118,20,pos,peaceful,they,Peaceful is what they feel when everything goes quiet.,they
+119,20,neu,usual,they,Usual is what they feel when everything goes quiet.,they
+120,20,neg,restless,they,Restless is what they feel when everything goes quiet.,they
