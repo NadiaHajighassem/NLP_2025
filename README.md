@@ -7,8 +7,8 @@ In this project, I collect data from two subreddits:
 
 - `r/depression`
 - `r/CasualConversation`
-
-The goal is to explore **what BERT pays attention to in depressive vs. non-depressive text**.
+  
+The goal of this project is to assess whether linguistic markers of depression can also be identified by a transformer model trained to classify Reddit text as either depressive or non-depressive.
 
 **Due to ethical concerns, the datasets used in this project have NOT been uploaded to GitHub. For examination the dataset has been uploaded to WiseFlow**
 
