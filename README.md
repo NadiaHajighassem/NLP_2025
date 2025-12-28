@@ -76,9 +76,9 @@ jupyter notebook nbs/Finetune.ipynb
 # For attention analysis:
 jupyter notebook nbs/Analysis.ipynb
 
-
 ⚠️ **Note:**  
-- The scraping and fine-tuning steps are very time-consuming, so keep in mind, that some chunks take multiple hours to run.
+Alternatively, the notebooks can also be opened up directly in Ucloud, that is adviced for Scraping.ipynb and Finetune.ipynb, as some chunks take multiple hours to run. 
+
 
 # Deactivate the environment when you're done
 deactivate
