@@ -15,30 +15,27 @@ The goal is to explore **what BERT pays attention to in depressive vs. non-depre
 ---
 
 ## 🛠️ Repository Structure
-text
+
+```text
 .
 ├── Scraping/
 │   └── Scraping.ipynb    # Code for scraping subreddits
 │ 
-│ 
 ├── data/
 │    └── reddit_probe_triplets_20_pronounvar.csv # probing sentences
 │ 
-│
 ├── nbs/
 │   ├── Finetune.ipynb    # Code for fine-tuning BERT
 │   ├── Analysis.ipynb    # Code for attention probing
 │   └── runs/             # Folder for fine-tuned models (not pushed due to size)
 │ 
-│
 ├── results/
 │    └── figures/ # This folder contains figures of the results produced from attention probing
 │ 
-│
-│   
 ├── requirements.txt      # Packages needed for running notebooks
 └── README.md             # Info about the repo
----
+
+```
 
 ## 🛠️ Setup (UCloud)
 
