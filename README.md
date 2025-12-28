@@ -10,7 +10,7 @@ In this project, I collect data from two subreddits:
 
 The goal is to explore **what BERT pays attention to in depressive vs. non-depressive text**.
 
-**Due to ethical concerns, the datasets used in this project have not been uploaded to GitHub.**
+**Due to ethical concerns, the datasets used in this project have NOT been uploaded to GitHub. For examination the dataset has been uploaded to WiseFlow**
 
 ---
 
